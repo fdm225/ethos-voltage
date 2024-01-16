@@ -1,0 +1,1 @@
+copy C:\Users\david\OneDrive\PycharmProjects\ethos-voltage\*.lua "C:\Program Files (x86)\FrSky\Ethos\X20S\scripts\vMin"
