@@ -137,9 +137,7 @@ local name = "Voltage Sag"
 local key = "vMin"
 
 local function create()
-    --local libservice = libservice or loadService()
-    --local widget = libservice.new()
-    --
+    local libscheduler = libscheduler or loadSched()
     widget = {
         values = {},
         lipoSensor = nil,
